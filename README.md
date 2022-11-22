@@ -20,7 +20,8 @@ c = suma(8.5,9.9);
 
 A continuacion se muestra la captura de lo que el programa arrojo como resultado con este codigo:
 
-![2022-10-25 (2)](https://user-images.githubusercontent.com/84942556/197921717-75efeb0b-e327-461f-a3f0-3e06b59d43b6.png)
+![image](https://user-images.githubusercontent.com/84942556/203190443-bdb28d0f-62c6-49cd-938e-c75fd3d6cfbf.png)
+
 
 
 Y el segundo codigo:
@@ -37,4 +38,4 @@ c = suma(8,9);
 A continuacion la captura de pantlla con el resultado obtenido:
 
 
-![2022-10-25 (3)](https://user-images.githubusercontent.com/84942556/197921824-da672661-665b-45b0-8b2c-aa184bafa4db.png)
+![image](https://user-images.githubusercontent.com/84942556/203190620-84632d50-7c8a-4174-a6bc-1f5f3a7740bb.png)
